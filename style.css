@@ -44,9 +44,9 @@ header h3 {
 header a {
     margin: 0;
     padding: 0;
-    color: #ff6f61; 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    font-size: 1rem;
+    font-size: 1.3rem;
+    font-weight: 500;
 }
 
 
